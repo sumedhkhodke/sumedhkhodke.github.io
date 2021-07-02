@@ -1,8 +1,8 @@
 # Sumedh Khodke 
 
-I am an Incoming Master's student in Data Science at the University of Buffalo, NY for Fall 2021.
-I like to work in the sphere of intersection of machine learning and software engineering stuff with special interests in Natural Language Processing. 
-Previously worked as a SWE in ML at a growth-stage [startup](https://www.rubiscape.io/) in Pune, India
+I am an Incoming Master's student in **Data Science** at the [University of Buffalo, NY](https://www.buffalo.edu/) for Fall 2021.
+I like to work in the sphere of intersection of **machine learning** and **software engineering** stuff with special interests in **Natural Language Processing**. 
+Previously worked as a **SWE in ML** at a growth-stage [startup](https://www.rubiscape.io/) in Pune, India
 
 
 #### Other places on the internet where you can find me
