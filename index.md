@@ -1,4 +1,4 @@
-#Sumedh Khodke 
+# Sumedh Khodke 
 
 ---------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Previously worked as a SWE in ML at a growth-stage [startup](https://www.rubisca
 
 ---------------------------------------------------------------------------
 
-This site is inspired by the likes of [this](http://www.motherfuckingwebsite.com/) and [this](https://deathtobullshit.com/).
+The minimalism on this site is inspired by the likes of [this](http://www.motherfuckingwebsite.com/) and [this](https://deathtobullshit.com/).
