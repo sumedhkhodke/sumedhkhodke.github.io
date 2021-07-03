@@ -18,4 +18,5 @@ Previously worked as a **SWE in ML** at a growth-stage [startup](https://www.rub
 
 ---------------------------------------------------------------------------
 
-The minimalism on this site is inspired by the likes of [this](https://www.motherfuckingwebsite.com/ "minimalism 1") and [this](https://deathtobullshit.com/ "minimalism 2").
+I strongly believe in minimalism
+
