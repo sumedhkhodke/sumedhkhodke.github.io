@@ -8,15 +8,15 @@ Previously worked as a **SWE in ML** at a growth-stage [startup](https://www.rub
 **Other places on the internet where you can find me**
 * [LinkedIn](https://www.linkedin.com/in/sumedhkhodke/)
 * [Twitter](https://twitter.com/sumedh_khodke)
-* [GitHub](https://github.com/sumedhkhodke)
+* [GitHub](https://github.com/sumedhkhodke) 
 
 
 **Contact**
-* sumedh [dot] khodke [at] gmail [dot] com
-* sumedhud [at] buffalo [dot] edu
+* sumedh [dot] khodke [at] gmail [dot] com - Personal
+* sumedhud [at] buffalo [dot] edu - School
 
 
 ---------------------------------------------------------------------------
 
-I strongly believe in minimalism
+I strongly believe in minimalist websites
 
