@@ -14,6 +14,9 @@ Previously worked as a **SWE in ML** at a growth-stage [startup](https://www.rub
 **Contact**
 * sumedh [dot] khodke [at] gmail [dot] com - Personal
 * sumedhud [at] buffalo [dot] edu - School
+* <!-- Calendly inline widget begin --><div class="calendly-inline-widget" data-url="https://calendly.com/sumedhkhodke" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
 
 ---------------------------------------------------------------------------
