@@ -23,10 +23,8 @@ Technical Skills
 
 
 **Contact**
-* sumedh [dot] khodke [at] gmail [dot] com - Personal
-* sumedhk [at] buffalo [dot] edu - School
-* <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sumedhkhodke'});return false;">Setup a meeting with me</a>
+* [Personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
+* [School](sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
+* <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sumedhkhodke'});return false;">Setup a meeting with me</a>
 
 
