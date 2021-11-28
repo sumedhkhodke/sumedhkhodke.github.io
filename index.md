@@ -20,7 +20,7 @@ Technical Skills
 * [LinkedIn](https://www.linkedin.com/in/sumedhkhodke/)
 * [Twitter](https://twitter.com/sumedh_khodke)
 * [GitHub](https://github.com/sumedhkhodke)
-* [Email personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
-* [Email - school](sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
+* [Email: personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
+* [Email: school](sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
 * <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sumedhkhodke'});return false;">Setup a meeting with me</a>
 
