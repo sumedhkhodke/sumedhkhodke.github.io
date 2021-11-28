@@ -16,15 +16,11 @@ Technical Skills
 *	Web-development - HTML5, CSS3, Django, Flask, FastAPI, Streamlit, Gradio
 
 
-**Other places on the internet where you can find me**
+**Contact**
 * [LinkedIn](https://www.linkedin.com/in/sumedhkhodke/)
 * [Twitter](https://twitter.com/sumedh_khodke)
-* [GitHub](https://github.com/sumedhkhodke) 
-
-
-**Contact**
-* [Personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
-* [School](sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
+* [GitHub](https://github.com/sumedhkhodke)
+* [Email personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
+* [Email - school](sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
 * <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sumedhkhodke'});return false;">Setup a meeting with me</a>
-
 
