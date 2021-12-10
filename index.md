@@ -2,7 +2,7 @@
 
 **Actively seeking Summer 2022 internships in Data Science and Machine Learning**
 
-I'm a **Data Science** graduate student at [University at Buffalo](https://www.buffalo.edu/) graduating in Spring 2022. Previously used to work as a **SWE in ML** at a growth stage startup in India with a total experience of 2.5yrs. 
+I'm a **Data Science** graduate student at [University at Buffalo](https://www.buffalo.edu/) graduating in Spring 2023. Previously used to work as a **SWE in ML** at a growth stage startup in India with a total experience of 2.5yrs. 
 I like to work in the sphere of intersection of **machine learning** and **software engineering** stuff with special interests in **Natural Language Processing**.  
 
 Technical Skills
