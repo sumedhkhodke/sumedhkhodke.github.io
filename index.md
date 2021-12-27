@@ -22,5 +22,7 @@ Technical Skills
 * [GitHub](https://github.com/sumedhkhodke)
 * [Email: personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
 * [Email: school](sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
-* <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sumedhkhodke'});return false;">Setup a meeting with me</a>
+* <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/sumedhkhodke', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
 
