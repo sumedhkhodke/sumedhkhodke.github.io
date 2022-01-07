@@ -5,7 +5,7 @@
 I'm a **Data Science** graduate student at [University at Buffalo](https://www.buffalo.edu/) graduating in Spring 2023. Previously used to work as a **SWE in ML** at a growth stage startup in India with a total experience of 2.5yrs. 
 I like to work in the sphere of intersection of **machine learning** and **software engineering** stuff with special interests in **Natural Language Processing**.  
 
-Technical Skills
+**Technical Skills**
 *	Languages - Python, C++, Java/J2EE, C, Golang, Jax(elementary)
 *	Libraries/Frameworks - Pandas, Modin, RAPIDS, NumPy, SciPy, Sk-learn, Keras, PyTorch, TensorFlow 1.x, Flair, Fastai 2, NLTK, Spacy, PyTorch Lightning, Celery, Onnx, OpenVINO, Jupyter notebooks
 *	Data Visualization - Tableau, PowerBI, d3.js, seaborn, matplotlib 
@@ -14,6 +14,7 @@ Technical Skills
 *	Databases - SQL, MySQL, PostgreSQL, Oracle, Redis, MongoDB
 *	Cloud - AWS EC2, RDS, S3, EKS, Lambda, CodeDeploy
 *	Web-development - HTML5, CSS3, Django, Flask, FastAPI, Streamlit, Gradio
+*	[See Projects](https://github.com/sumedhkhodke?tab=repositories)
 
 
 **Contact**
