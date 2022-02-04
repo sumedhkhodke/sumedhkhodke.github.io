@@ -12,7 +12,7 @@ I like to work in the sphere of intersection of **machine learning** and **softw
 *	Version Control - Git, SVN, Bitbucket
 *	CI/CD - GitlabCI, Jenkins, CircleCI, GitHub Actions, Docker
 *	Databases - SQL, MySQL, PostgreSQL, Oracle, Redis, MongoDB
-*	Cloud - AWS EC2, RDS, S3, EKS, Lambda, CodeDeploy
+*	Cloud - AWS services
 *	Web-development - HTML5, CSS3, Django, Flask, FastAPI, Streamlit, Gradio
 *	[See Projects](https://github.com/sumedhkhodke?tab=repositories)
 
@@ -22,7 +22,7 @@ I like to work in the sphere of intersection of **machine learning** and **softw
 * [Twitter](https://twitter.com/sumedh_khodke)
 * [GitHub](https://github.com/sumedhkhodke)
 * [Email: personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
-* [Email: school](sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
+* [Email: school](mailto:sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
 * <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sumedhkhodke'});return false;">Schedule time with me</a>
