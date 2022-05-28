@@ -1,8 +1,8 @@
 # Sumedh Khodke 
 
-**Actively seeking Summer 2022 internships in Data Science and Machine Learning**
+**Actively seeking research opportunities and summer internships in Data Science and Machine Learning**
 
-I'm a **Data Science** graduate student at [University at Buffalo](https://www.buffalo.edu/) graduating in December 2022. Previously used to work as a **SWE in ML** at a growth stage startup in India with a total experience of 2.5yrs. 
+I'm a **Data Science graduate student** at **SUNY University at Buffalo** graduating in December 2022. Previously worked as a **ML SWE** at a growth stage startup with a total experience of 2.5yrs. 
 I like to work in the sphere of intersection of **machine learning** and **software engineering** stuff with special interests in **Natural Language Processing**.  
 
 **Technical Skills**
@@ -11,10 +11,10 @@ I like to work in the sphere of intersection of **machine learning** and **softw
 *	Data Visualization - Tableau, PowerBI, d3.js, seaborn, matplotlib 
 *	Version Control - Git, SVN, Bitbucket
 *	CI/CD - GitlabCI, Jenkins, CircleCI, GitHub Actions, Docker
-*	Databases - SQL, MySQL, PostgreSQL, Oracle, Redis, MongoDB
+*	Databases - SQL, Redis, MongoDB
 *	Cloud - AWS services
 *	Web-development - HTML5, CSS3, Django, Flask, FastAPI, Streamlit, Gradio
-*	[See Projects](https://github.com/sumedhkhodke?tab=repositories)
+*	[See Projects](https://github.com/sumedhkhodke?tab=repositories&q=&type=source&language=&sort=)
 
 
 **Contact**
