@@ -1,9 +1,16 @@
-# Sumedh Khodke 
+**Hello!**
 
-**Actively seeking research opportunities and summer internships in Data Science and Machine Learning**
+I'm a second-year graduate student in Data Science at SUNY University at Buffalo, graduating in December 2022. **I'm actively seeking research opportunities and Fall internships in Data Science and Machine Learning.** I previously worked as an ML SWE at a growth stage startup with a total experience of 2.5yrs. 
 
-I'm a **Data Science graduate student** at **SUNY University at Buffalo** graduating in December 2022. Previously worked as a **ML SWE** at a growth stage startup with a total experience of 2.5yrs. 
-I like to work in the sphere of intersection of **machine learning** and **software engineering** stuff with special interests in **Natural Language Processing**.  
+My current research interests lie in Applied Machine Learning, Language modelling and ML training optimization techniques. I like to work in the sphere of intersection of Machine Learning and Software Engineering stuff with special interests in Natural Language Processing.
+
+**Work Experience**
+* Software Engineer in Machine Learning, Rubiscape : Jan'19 - June'21
+* Machine Learning Intern, Walnut App : Aug'17 - Nov'18
+
+**Education**
+* Master's in Data Science, SUNY University at Buffalo (Class of 2022)
+* Bachelor's in Computer Engineering, PICT University of Pune (Class of 2018)
 
 **Technical Skills**
 *	Languages - Python, C++, Java/J2EE, C, Golang, Jax(elementary)
@@ -13,16 +20,5 @@ I like to work in the sphere of intersection of **machine learning** and **softw
 *	CI/CD - GitlabCI, Jenkins, CircleCI, GitHub Actions, Docker
 *	Databases - SQL, Redis, MongoDB
 *	Cloud - AWS services
-*	Web-development - HTML5, CSS3, Django, Flask, FastAPI, Streamlit, Gradio
-*	[See Projects](https://github.com/sumedhkhodke?tab=repositories&q=&type=source&language=&sort=)
+*	Web-development - HTML/CSS, Django, Flask, FastAPI, Streamlit, Gradio
 
-
-**Contact**
-* [LinkedIn](https://www.linkedin.com/in/sumedhkhodke/)
-* [Twitter](https://twitter.com/sumedh_khodke)
-* [GitHub](https://github.com/sumedhkhodke)
-* [Email: personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
-* [Email: school](mailto:sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
-* <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sumedhkhodke'});return false;">Schedule time with me</a>
