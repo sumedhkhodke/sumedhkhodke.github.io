@@ -1,7 +1,6 @@
 **Projects**
 
 **Custom Named-Entity-Recognition using BERT** 
-
 (Python, Pytorch, FastAPI) 
 [view project](https://github.com/sumedhkhodke/Custom-Named-Entity-Recognition)
 
@@ -10,7 +9,6 @@ information from resumes based on user defined information in fields of Educatio
 The model achieved an accuracy of 74% and was served as an application wrapped using FastAPI
 
 **Automatic Speech Recognition using Wav2Vec2 XLSR-53 for low-resource languages**
-
 (Python, Pytorch, Huggingface)
 [view project](https://github.com/sumedhkhodke/xlsr-wav2vec2-asr-marathi)
 
@@ -20,7 +18,6 @@ Project was implemented as part of the Huggingface XLSR Open-Source Sprint for l
 
 
 **NLP Playground**
-
 (Python, Pytorch-Lightning, FastAPI, AWS Lambda) 
 [view project](https://github.com/sumedhkhodke/NLPPlayground)
 
@@ -29,7 +26,6 @@ Unmasked Text Prediction and Abstractive Text Summarization. The solution was de
 
 
 **Prediction and Semantic Classification of Myers-Briggs Personality Types from user provided text**
-
 (Python, Pytorch) 
 [view project](https://github.com/sumedhkhodke/MyersBriggs-Personality-Detection)
 
@@ -39,7 +35,6 @@ an accuracy score of 78% on predicted personality type
 
 
 **Extractive Text Summarization using Transformers**
-
 (Python, Pytorch)
 [view project](https://github.com/sumedhkhodke/CSE_676_project)
 
