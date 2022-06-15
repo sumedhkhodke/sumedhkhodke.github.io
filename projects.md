@@ -16,6 +16,11 @@ Trained the language model of facebook/wav2vec2-large-xlsr-53 on Marathi languag
 SLR64 Marathi dataset. Achieved a Word Error Rate (WER) on the Test Set of 12.70% with input data sampled at 16kHz.
 Project was implemented as part of the Huggingface XLSR Open-Source Sprint for low resource languages
 
+**NFL RosterGen: Optimizing NFL roster construction using Genetic Algorithms**
+[view project](https://github.com/sumedhkhodke/NFL-Team-Construction-1)
+
+Roster construction and optimization in NFL to create better team construction strategies from a family of genetic algorithms to objectively select players coupled with an ML-based fitness function used to evaluate a team’s quality.
+
 
 **NLP Playground**
 (Python, Pytorch-Lightning, FastAPI, AWS Lambda) 
