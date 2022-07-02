@@ -13,7 +13,7 @@ My current research interests lie in Applied Machine Learning, Language modellin
 * Machine Learning Intern, Walnut App : Aug'17 - Nov'18
 
 **Volunteer Experience**
-* Mentored 2 research student groups for undergrad projects in Applied ML
+* Mentored multiple student groups for undergrad research projects in Applied ML
 * Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative 
 * Student ambassador to Huggingface at SUNY Buffalo university to volunteer with the community in ML democratization efforts
 
