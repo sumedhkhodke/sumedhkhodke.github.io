@@ -4,6 +4,8 @@ I'm a second-year graduate student in Data Science at SUNY University at Buffalo
 
 My current research interests lie in Applied Machine Learning, Language modelling and ML training optimization techniques. I like to work in the sphere of intersection of Machine Learning and Software Engineering stuff with special interests in Natural Language Processing.
 
+Apart from work, I enjoy playing music, video games and traveling.
+
 **Education**
 * Master's in Data Science, SUNY University at Buffalo (Class of 2022)
 * Bachelor's in Computer Engineering, PICT University of Pune (Class of 2018)
@@ -15,7 +17,7 @@ My current research interests lie in Applied Machine Learning, Language modellin
 **Volunteer Experience**
 * Mentored multiple student groups for undergrad research projects in Applied ML
 * Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative 
-* Student ambassador to Huggingface at SUNY Buffalo university to volunteer with the community in ML democratization efforts
+* Student ambassador to Huggingface at SUNY Buffalo university to volunteer with the community in their ML democratization efforts : June'22 - Dec'22
 
 **Technical Skills**
 *	Languages - Python, C++, Java/J2EE, C, Golang, Jax(elementary)
