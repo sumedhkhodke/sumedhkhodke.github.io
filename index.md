@@ -15,6 +15,7 @@ Apart from work, I enjoy playing music, video games and traveling.
 * Machine Learning Intern, Walnut App : Aug'17 - Nov'18
 
 **Volunteer Experience**
+* Core-team member and Tech Lead at Google Developer Student Club for SUNY University at Buffalo
 * Mentored multiple student groups for undergrad research projects in Applied ML
 * Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative 
 * Student ambassador to Huggingface at SUNY Buffalo university to volunteer with the community in their ML democratization efforts : June'22 - Dec'22
