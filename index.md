@@ -20,13 +20,16 @@ Apart from work, I enjoy playing music, video games and traveling.
 * Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative 
 * Student ambassador to Huggingface at SUNY Buffalo university to volunteer with the community in their ML democratization efforts : June'22 - Dec'22
 
+**Publications**
+* NFL RosterGen: Optimizing roster construction using Genetic Algorithms, Elsevier SoftwareX (2022)
+
 **Technical Skills**
-*	Languages - Python, C++, Java/J2EE, C, Golang, Jax(elementary)
+*	Languages - Python, C++, Java/J2EE, C, Golang, Jax(elementary), R
 *	Libraries/Frameworks - Pandas, Modin, RAPIDS, NumPy, SciPy, Sk-learn, Keras, PyTorch, TensorFlow 1.x, Flair, Fastai 2, NLTK, Spacy, PyTorch Lightning, Celery, Onnx, OpenVINO, Jupyter notebooks
 *	Data Visualization - Tableau, PowerBI, d3.js, seaborn, matplotlib 
 *	Version Control - Git, SVN, Bitbucket
 *	CI/CD - GitlabCI, Jenkins, CircleCI, GitHub Actions, Docker
 *	Databases - SQL, Redis, MongoDB
-*	Cloud - AWS services
+*	Cloud - AWS, GCP
 *	Web-development - HTML/CSS, Django, Flask, FastAPI, Streamlit, Gradio
 
