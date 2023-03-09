@@ -1,8 +1,8 @@
 
 **Contact**
-* [LinkedIn](https://www.linkedin.com/in/sumedhkhodke/)
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sumedhkhodke/)
+* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sumedhkhodke)
 * [Twitter](https://twitter.com/sumedh_khodke)
-* [GitHub](https://github.com/sumedhkhodke)
 * Email
   * [personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
   * [school](mailto:sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
