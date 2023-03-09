@@ -1,6 +1,6 @@
 **Hello!**
 
-I'm a second-year graduate student in Data Science at SUNY University at Buffalo, graduating in February 2023. **I'm actively seeking full time job opportunities in Data Science and Machine Learning.** I previously worked as an ML SWE at a growth stage startup with a total experience of 2.5yrs. 
+I'm a graduate student in Data Science at SUNY University at Buffalo, class of 2023. **I'm actively seeking full time job opportunities in Data Science and Machine Learning.** I previously worked as an ML SWE at a growth stage startup with a total experience of 2.5yrs. 
 
 My current research interests lie in Applied Machine Learning, Language modelling and ML training optimization techniques. I like to work in the sphere of intersection of Machine Learning and Software Engineering stuff with special interests in Natural Language Processing.
 
@@ -15,13 +15,13 @@ Apart from work, I enjoy playing music, video games and traveling.
 * Machine Learning Intern, Walnut App : Aug'17 - Nov'18
 
 **Volunteer Experience**
-* Core-team member and Tech Lead at Google Developer Student Club for SUNY University at Buffalo
+* Core-team member and Tech Lead at Google Developer Student Club chapter at SUNY University at Buffalo for 2022
 * Mentored multiple student groups for undergrad research projects in Applied ML
 * Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative 
 * Student ambassador to Huggingface at SUNY Buffalo university to volunteer with the community in their ML democratization efforts : June'22 - Dec'22
 
 **Publications**
-* NFL RosterGen: Optimizing roster construction using Genetic Algorithms, Elsevier SoftwareX (2022)
+* NFL RosterGen: Optimizing roster construction using Genetic Algorithms, Elsevier SoftwareX (2022) [view paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4160518)
 
 **Technical Skills**
 *	Languages - Python, C++, Java/J2EE, C, Golang, Jax(elementary), R
