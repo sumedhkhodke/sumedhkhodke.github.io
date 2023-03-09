@@ -7,7 +7,7 @@ My current research interests lie in Applied Machine Learning, Language modellin
 Apart from work, I enjoy playing music, video games and traveling.
 
 **Education**
-* Master's in Data Science, SUNY University at Buffalo (Class of 2022)
+* Master's in Data Science, SUNY University at Buffalo (Class of 2023)
 * Bachelor's in Computer Engineering, PICT University of Pune (Class of 2018)
 
 **Work Experience**
