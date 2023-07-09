@@ -1,4 +1,7 @@
-**Hello!**
+**Welcome to my homepage!**
+
+**About me**
+
 I hold a Master's degree in Data Science from SUNY University at Buffalo, graduated in May 2023. **I'm actively seeking full-time employment opportunities in the field of Data Science and Machine Learning.** Prior to my academic pursuits, I gained valuable experience as an ML Software Engineer at a growth stage startup, accumulating a total of 3 years of professional expertise.
 
 My current research interests lie in Applied Machine Learning, Language modelling and ML training optimization techniques. I like to work in the sphere of intersection of Machine Learning and Software Engineering stuff with special interests in Natural Language Processing.
