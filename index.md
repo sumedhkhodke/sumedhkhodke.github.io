@@ -1,6 +1,6 @@
 **Hello!**
 
-I'm a graduate student in Data Science at SUNY University at Buffalo, class of 2023. **I'm actively seeking full time job opportunities in Data Science and Machine Learning.** I previously worked as an ML SWE at a growth stage startup with a total experience of 3yrs. 
+I'm a graduate student in Data Science at SUNY University at Buffalo, class of 2023. **I'm actively seeking full-time job opportunities in Data Science and Machine Learning.** I previously worked as an ML SWE at a growth stage startup with a total experience of 3 yrs.
 
 My current research interests lie in Applied Machine Learning, Language modelling and ML training optimization techniques. I like to work in the sphere of intersection of Machine Learning and Software Engineering stuff with special interests in Natural Language Processing.
 
@@ -11,6 +11,7 @@ Apart from work, I enjoy playing music, video games and traveling.
 * Bachelor's in Computer Engineering, PICT University of Pune (Class of 2018)
 
 **Work Experience**
+* Machine Learning Engineering Intern, Tellagence : June'23 - Present
 * Software Engineer in Machine Learning, Rubiscape : Jan'19 - June'21
 * Machine Learning Intern, Walnut App : Aug'17 - Nov'18
 
@@ -24,12 +25,12 @@ Apart from work, I enjoy playing music, video games and traveling.
 * NFL RosterGen: Optimizing roster construction using Genetic Algorithms, Elsevier SoftwareX (2022) [view paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4160518)
 
 **Technical Skills**
-*	Languages - Python, C++, Java/J2EE, C, Golang, Jax(elementary), R
-*	Libraries/Frameworks - Pandas, Modin, RAPIDS, NumPy, SciPy, Sk-learn, Keras, PyTorch, TensorFlow 1.x, Flair, Fastai 2, NLTK, Spacy, PyTorch Lightning, Celery, Onnx, OpenVINO, Jupyter notebooks
+*	Languages - Expert: Python; Intermediate : C++; Basic : Java/J2EE, C, Golang, Jax, R
+*	Libraries/Frameworks - Pandas, Modin, RAPIDS, NumPy, SciPy, Sk-learn, Keras, PyTorch, TensorFlow 1.x, Flair, Fastai 2, NLTK, Spacy, PyTorch Lightning, Celery, Onnx, OpenVINO, Jupyter notebooks, BigQuery
 *	Data Visualization - Tableau, PowerBI, d3.js, seaborn, matplotlib 
 *	Version Control - Git, SVN, Bitbucket
 *	CI/CD - GitlabCI, Jenkins, CircleCI, GitHub Actions, Docker
-*	Databases - SQL, Redis, MongoDB
+*	Databases - SQL, Redis, MongoDB, Spark, Arrow
 *	Cloud - AWS, GCP
 *	Web-development - HTML/CSS, Django, Flask, FastAPI, Streamlit, Gradio
 
