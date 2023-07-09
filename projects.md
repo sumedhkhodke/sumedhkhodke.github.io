@@ -39,8 +39,8 @@ its MBTI type with comparative study for its classification techniques for word-
 an accuracy score of 78% on predicted personality type
 
 
-**Extractive Text Summarization using Transformers**
+**Abstractive Text Summarization using Transformers**
 (Python, Pytorch)
-[view project](https://github.com/sumedhkhodke/CSE_676_project)
+[view project](https://github.com/sumedhkhodke/Summarization-Ecommerce-Reviews)
 
 Performed extractive text summarization on amazon text reviews on products across multiple categories. Improved on the generalization of model performanaces of BART, T5 and PEGASUS to adapt to out of domain text inputs through fine-tuning.
