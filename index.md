@@ -12,11 +12,6 @@ Apart from work, I enjoy playing music, video games, and traveling.
 * Master's in Data Science, SUNY University at Buffalo (Class of 2023)
 * Bachelor's in Computer Engineering, PICT University of Pune (Class of 2018)
 
-**Work Experience**
-* Machine Learning Engineering Intern, Tellagence : June'23 - Present
-* Software Engineer in Machine Learning, Rubiscape : Jan'19 - June'21
-* Machine Learning Intern, Walnut App : Aug'17 - Nov'18
-
 **Technical Skills**
 *	Languages - Expert: Python; Intermediate : C++; Basic : Java/J2EE, C, Golang, Jax, R
 *	LLM toolkit: LangChain, LlamaIndex, GuardRails, Steamship, Weaviate, FAISS, HuggingFace, TensorRT, ONNX, Vertex AI
@@ -28,14 +23,19 @@ Apart from work, I enjoy playing music, video games, and traveling.
 *	Cloud - AWS, GCP
 *	Web-development - HTML/CSS, Django, Flask, FastAPI, Streamlit, Gradio
 
+**Work Experience**
+* Machine Learning Engineering Intern, Tellagence : June'23 - Present
+* Software Engineer in Machine Learning, Rubiscape : Jan'19 - June'21
+* Machine Learning Intern, Walnut App : Aug'17 - Nov'18
+
+**Publications**
+* NFL RosterGen: Optimizing roster construction using Genetic Algorithms, Elsevier SoftwareX (2022) [view paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4160518)
+
 **Volunteer Experience**
 * Core-team member and Tech Lead at Google Developer Student Club chapter at SUNY University at Buffalo for 2022
 * Mentored multiple student groups for undergrad research projects in Applied ML
 * Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative 
 * Student ambassador to Huggingface at SUNY Buffalo university to volunteer with the community in their ML democratization efforts : June'22 - Dec'22
-
-**Publications**
-* NFL RosterGen: Optimizing roster construction using Genetic Algorithms, Elsevier SoftwareX (2022) [view paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4160518)
 
 
 
