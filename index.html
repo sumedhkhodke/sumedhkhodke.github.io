@@ -1,113 +1,72 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% extends "layout.html" %}
 
-    {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-</head>
-<body>
-    <div class="wrapper">
-        <header>
-            <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-            
-            {% if site.logo %}
-            <img src="{{ site.logo | relative_url }}" alt="Logo" width="200" height="300"/>
-            {% endif %}
-
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-            <ul class="navigation">
-                <li><a href="https://sumedhkhodke.github.io/">About Me</a></li>
-                <li><a href="https://sumedhkhodke.github.io/projects">Projects</a></li>
-                <li><a href="https://sumedhkhodke.github.io/contact">Contact</a></li>
-            </ul>
-
-            {% if site.show_downloads %}
-            <ul class="downloads">
-                <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-                <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-                <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-            </ul>
-            {% endif %}
-        </header>
-        <section>
-            <!-- Add your portrait here -->
-            <div style="text-align: center; margin-bottom: 20px;">
-                <img src="portrait.jpg" alt="Sumedh Khodke" style="width: 200px; height: auto; border-radius: 50%;" />
-            </div>
-
-            <h1>Welcome to My Homepage!</h1>
-
-            <h2>👤 About Me</h2>
-            <p>I'm a Machine Learning Engineer with a Master's degree in Data Science from SUNY University at Buffalo and 3+ years of industry experience. <strong>I'm actively seeking full-time employment opportunities in the field of Data Science and Machine Learning.</strong> My expertise lies in ML/AI, Data Science, MLOps, and software engineering for ML products.</p>
-
-            <p>I have experience handling everything from brainstorming to deploying ML projects, including ideation, research, model development, and maintenance. I'm skilled in developing scalable applications, building RESTful APIs, and deploying cloud-based ML models (☁️ AWS, GCP) in production.</p>
-
-            <p>My current research interests lie in Applied ML, Language Modelling, and training optimization techniques, especially in the domain of unstructured text. I'm passionate about exploring and contributing to the intersection of ML and software engineering.</p>
-
-            <p>Apart from work, I enjoy playing music, video games, and traveling.</p>
-
-            <h2>🎓 Education</h2>
-            <ul>
-                <li><strong>Master's in Data Science</strong>, SUNY University at Buffalo (Class of 2023)</li>
-                <li><strong>Bachelor's in Computer Engineering</strong>, PICT University of Pune (Class of 2018)</li>
-            </ul>
-
-            <h2>🛠️ Technical Skills</h2>
-            <ul>
-                <li><strong>Languages</strong>
-                    <ul>
-                        <li>Expert: Python</li>
-                        <li>Intermediate: C++</li>
-                        <li>Basic: Java/J2EE, C, Golang, Jax, R</li>
-                    </ul>
-                </li>
-                <li><strong>LLM Toolkit</strong>: LangChain, LlamaIndex, GuardRails, Steamship, Weaviate, FAISS, HuggingFace, TensorRT, ONNX, Vertex AI</li>
-                <li><strong>Libraries/Frameworks</strong>: Dask, RAPIDS, Keras, PyTorch, TensorFlow 1.x, Flair, Fastai 2, NLTK, Spacy, PyTorch Lightning, Celery, Onnx, OpenVINO, Jupyter notebooks</li>
-                <li><strong>Data Visualization</strong>: Tableau, PowerBI, d3.js, seaborn, matplotlib</li>
-                <li><strong>Version Control</strong>: Git, SVN, Bitbucket</li>
-                <li><strong>CI/CD</strong>: GitlabCI, Jenkins, CircleCI, GitHub Actions, Docker</li>
-                <li><strong>Databases</strong>: SQL, Redis, MongoDB, Spark, Arrow, BigQuery</li>
-                <li><strong>Cloud</strong>: ☁️ AWS, GCP</li>
-                <li><strong>Web Development</strong>: HTML/CSS, Django, Flask, FastAPI, Streamlit, Gradio</li>
-            </ul>
-
-            <h2>💼 Work Experience</h2>
-            <ul>
-                <li><strong>Machine Learning Engineer</strong>, Tellagence : June 2023 - Present</li>
-                <li><strong>Software Engineer in Machine Learning</strong>, Rubiscape : January 2019 - June 2021</li>
-                <li><strong>Machine Learning Intern</strong>, Walnut App : August 2017 - November 2018</li>
-            </ul>
-
-            <h2>📚 Publications</h2>
-            <ul>
-                <li><strong>TeamWellX: Leveraging Genetic Algorithms to Optimize Roster Strategy</strong> (February 2024)
-                    <p>Published a technical paper in Elsevier SoftwareX on using genetic algorithms and machine learning to optimize team rosters, enhancing solution diversity and robustness using mutations for adaptive strategy optimization. <a href="https://www.sciencedirect.com/science/article/pii/S2352711024000062">📄 View Paper</a></p>
-                </li>
-            </ul>
-
-            <h2>🤝 Volunteer Experience</h2>
-            <ul>
-                <li>🤖 Core-team member and Tech Lead at Google Developer Student Club chapter at SUNY University at Buffalo for 2022</li>
-                <li>🧑‍🏫 Mentored multiple student groups for undergrad research projects in Applied ML</li>
-                <li>🎤 Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative</li>
-                <li>🌍 Student ambassador to Huggingface at SUNY Buffalo University to volunteer with the community in their ML democratization efforts (June 2022 - December 2022)</li>
-            </ul>
-        </section>
+{% block content %}
+<div class="container">
+    <div class="sidebar">
+        <img src="assets/images/portrait.png" alt="Sumedh Khodke" style="width: 100%; height: auto; border-radius: 10px;"/>
+        <ul>
+            <li><a href="https://sumedhkhodke.github.io/">About Me</a></li>
+            <li><a href="https://sumedhkhodke.github.io/projects">Projects</a></li>
+            <li><a href="https://sumedhkhodke.github.io/contact">Contact</a></li>
+        </ul>
     </div>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SF72633X8L"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
 
-        gtag('config', 'G-SF72633X8L');
-    </script>
-</body>
-</html>
+    <div class="main-content">
+        <h2>👤 About Me</h2>
+        <p>I'm a Machine Learning Engineer with a Master's degree in Data Science from SUNY University at Buffalo and 3+ years of industry experience. <strong>I'm actively seeking full-time employment opportunities in the field of Data Science and Machine Learning.</strong> My expertise lies in ML/AI, Data Science, MLOps, and software engineering for ML products.</p>
+
+        <p>I have experience handling everything from brainstorming to deploying ML projects, including ideation, research, model development, and maintenance. I'm skilled in developing scalable applications, building RESTful APIs, and deploying cloud-based ML models (☁️ AWS, GCP) in production.</p>
+
+        <p>My current research interests lie in Applied ML, Language Modelling, and training optimization techniques, especially in the domain of unstructured text. I'm passionate about exploring and contributing to the intersection of ML and software engineering.</p>
+
+        <p>Apart from work, I enjoy playing music, video games, and traveling.</p>
+
+        <h2>🎓 Education</h2>
+        <ul>
+            <li><strong>Master's in Data Science</strong>, SUNY University at Buffalo (Class of 2023)</li>
+            <li><strong>Bachelor's in Computer Engineering</strong>, PICT University of Pune (Class of 2018)</li>
+        </ul>
+
+        <h2>🛠️ Technical Skills</h2>
+        <ul>
+            <li><strong>Languages</strong>
+                <ul>
+                    <li>Expert: Python</li>
+                    <li>Intermediate: C++</li>
+                    <li>Basic: Java/J2EE, C, Golang, Jax, R</li>
+                </ul>
+            </li>
+            <li><strong>LLM Toolkit</strong>: LangChain, LlamaIndex, GuardRails, Steamship, Weaviate, FAISS, HuggingFace, TensorRT, ONNX, Vertex AI</li>
+            <li><strong>Libraries/Frameworks</strong>: Dask, RAPIDS, Keras, PyTorch, TensorFlow 1.x, Flair, Fastai 2, NLTK, Spacy, PyTorch Lightning, Celery, Onnx, OpenVINO, Jupyter notebooks</li>
+            <li><strong>Data Visualization</strong>: Tableau, PowerBI, d3.js, seaborn, matplotlib</li>
+            <li><strong>Version Control</strong>: Git, SVN, Bitbucket</li>
+            <li><strong>CI/CD</strong>: GitlabCI, Jenkins, CircleCI, GitHub Actions, Docker</li>
+            <li><strong>Databases</strong>: SQL, Redis, MongoDB, Spark, Arrow, BigQuery</li>
+            <li><strong>Cloud</strong>: ☁️ AWS, GCP</li>
+            <li><strong>Web Development</strong>: HTML/CSS, Django, Flask, FastAPI, Streamlit, Gradio</li>
+        </ul>
+
+        <h2>💼 Work Experience</h2>
+        <ul>
+            <li><strong>Machine Learning Engineer</strong>, Tellagence : June 2023 - Present</li>
+            <li><strong>Software Engineer in Machine Learning</strong>, Rubiscape : January 2019 - June 2021</li>
+            <li><strong>Machine Learning Intern</strong>, Walnut App : August 2017 - November 2018</li>
+        </ul>
+
+        <h2>📚 Publications</h2>
+        <ul>
+            <li><strong>TeamWellX: Leveraging Genetic Algorithms to Optimize Roster Strategy</strong> (February 2024)
+                <p>Published a technical paper in Elsevier SoftwareX on using genetic algorithms and machine learning to optimize team rosters, enhancing solution diversity and robustness using mutations for adaptive strategy optimization. <a href="https://www.sciencedirect.com/science/article/pii/S2352711024000062">📄 View Paper</a></p>
+            </li>
+        </ul>
+
+        <h2>🤝 Volunteer Experience</h2>
+        <ul>
+            <li>🤖 Core-team member and Tech Lead at Google Developer Student Club chapter at SUNY University at Buffalo for 2022</li>
+            <li>🧑‍🏫 Mentored multiple student groups for undergrad research projects in Applied ML</li>
+            <li>🎤 Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative</li>
+            <li>🌍 Student ambassador to Huggingface at SUNY Buffalo University to volunteer with the community in their ML democratization efforts (June 2022 - December 2022)</li>
+        </ul>
+    </div>
+</div>
+{% endblock %}
