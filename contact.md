@@ -3,9 +3,9 @@
 
 Feel free to connect with me through any of the following platforms:
 
-- **LinkedIn:** [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20px" alt="LinkedIn">](https://www.linkedin.com/in/sumedhkhodke/)
-- **Github:** [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20px" alt="GitHub">](https://github.com/sumedhkhodke)
-- **Twitter/X:** [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="20px" alt="Twitter">](https://twitter.com/sumedh_khodke)
+#### LinkedIn: [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20px" alt="LinkedIn">](https://www.linkedin.com/in/sumedhkhodke/)
+#### Github: [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20px" alt="GitHub">](https://github.com/sumedhkhodke)
+#### Twitter/X: [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="20px" alt="Twitter">](https://twitter.com/sumedh_khodke)
 
 
 #### Email 📧
