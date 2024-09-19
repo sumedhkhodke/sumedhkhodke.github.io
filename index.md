@@ -4,7 +4,7 @@
 
 I'm a Machine Learning Engineer with a Master's degree in Data Science from SUNY University at Buffalo and 3+ years of industry experience. **I'm actively seeking full-time employment opportunities in the field of Data Science and Machine Learning.** My expertise lies in ML/AI, Data Science, MLOps, and software engineering for ML products.
 
-I have experience handling everything from brainstorming to deploying ML projects, including ideation, research, model development, and maintenance. I'm skilled in developing scalable applications, building RESTful APIs, and deploying cloud-based ML models (☁️ AWS, GCP) in production.
+I have experience handling everything from brainstorming to deploying ML projects, including ideation, research, model development, and maintenance. I'm skilled in developing scalable applications, building RESTful APIs, and deploying cloud-based ML models (AWS, GCP) in production.
 
 My current research interests lie in Applied ML, Language Modelling, and training optimization techniques, especially in the domain of unstructured text. I'm passionate about exploring and contributing to the intersection of ML and software engineering.
 
@@ -27,7 +27,7 @@ Apart from work, I enjoy playing music, video games, and traveling.
 - **Version Control**: Git, SVN, Bitbucket
 - **CI/CD**: GitlabCI, Jenkins, CircleCI, GitHub Actions, Docker
 - **Databases**: SQL, Redis, MongoDB, Spark, Arrow, BigQuery
-- **Cloud**: ☁️ AWS, GCP
+- **Cloud**: AWS, GCP
 - **Web Development**: HTML/CSS, Django, Flask, FastAPI, Streamlit, Gradio
 
 ## 💼 Work Experience
@@ -44,7 +44,7 @@ Apart from work, I enjoy playing music, video games, and traveling.
 
 ## 🤝 Volunteer Experience
 
-- 🤖 Core-team member and Tech Lead at Google Developer Student Club chapter at SUNY University at Buffalo for 2022
-- 🧑‍🏫 Mentored multiple student groups for undergrad research projects in Applied ML
-- 🎤 Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative
-- 🌍 Student ambassador to Huggingface at SUNY Buffalo University to volunteer with the community in their ML democratization efforts (June 2022 - December 2022)
+- Core-team member and Tech Lead at Google Developer Student Club chapter at SUNY University at Buffalo for 2022
+- Mentored multiple student groups for undergrad research projects in Applied ML
+- Conducted 40+ sessions as a Machine Learning facilitator at Academic Faculty Development Programs for teaching faculty at engineering colleges under Government of India, MHRD initiative
+- Student ambassador to Huggingface at SUNY Buffalo University to volunteer with the community in their ML democratization efforts (June 2022 - December 2022)
