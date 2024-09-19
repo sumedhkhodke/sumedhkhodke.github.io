@@ -1,11 +1,16 @@
 
-**Contact**
-* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sumedhkhodke/)
-* [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sumedhkhodke)<!--[Twitter](https://twitter.com/sumedh_khodke)-->
-* <a href="https://twitter.com/sumedh_khodke?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-* Email
-  * [personal](mailto:sumedh.khodke@gmail.com) - sumedh [dot] khodke [at] gmail [dot] com
-  * [school](mailto:sumedhk@buffalo.edu) - sumedhk [at] buffalo [dot] edu
-* <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/sumedhkhodke'});return false;">Schedule time with me</a>
+## Contact Me 📞
+
+Feel free to connect with me through any of the following platforms:
+
+- **LinkedIn:** [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20px" alt="LinkedIn">](https://www.linkedin.com/in/sumedhkhodke/)
+- **Github:** [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20px" alt="GitHub">](https://github.com/sumedhkhodke)
+- **Twitter/X:** [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="20px" alt="Twitter">](https://twitter.com/sumedh_khodke)
+
+
+#### Email 📧
+- **Personal:** [sumedh.khodke@gmail.com](mailto:sumedh.khodke@gmail.com) 
+- **School:** [sumedhk@buffalo.edu](mailto:sumedhk@buffalo.edu)
+
+#### Schedule a Meeting 📅
+- **Calendly:** [Schedule time with me](https://calendly.com/sumedhkhodke)
