@@ -1,7 +1,4 @@
----
-title: "About"
-layout: default
----
+
 
 #  Welcome to My Homepage! 
 
