@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Projects"
+---
+
 ## Projects
 
 1. **Custom Named-Entity-Recognition using BERT**
