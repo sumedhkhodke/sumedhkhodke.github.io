@@ -3,7 +3,7 @@ name: Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # Trigger the workflow on push to the main branch
+      - main  # or the branch you want to deploy from
 
 jobs:
   build:
@@ -30,7 +30,7 @@ jobs:
         GA_TRACKING_ID: ${{ secrets.GA_TRACKING_ID }}
 
     - name: Deploy to GitHub Pages
-      uses: actions/deploy-pages@v1
+      uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
