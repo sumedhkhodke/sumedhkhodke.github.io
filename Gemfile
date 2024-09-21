@@ -2,9 +2,9 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2.0"
 
-# If you are using a Jekyll theme:
+# If using a theme, include it
 gem "jekyll-theme-minimal"
 
-# Other dependencies for plugins or gems your site uses:
+# Other dependencies
 # gem "jekyll-paginate"
 # gem "jekyll-seo-tag"
