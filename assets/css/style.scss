@@ -1,0 +1,46 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+.wrapper {
+  max-width: 960px;
+}
+
+header {
+  width: 270px;
+  float: left;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+}
+
+section {
+  width: calc(100% - 300px);
+  float: right;
+  padding-bottom: 50px;
+}
+
+@media print, screen and (max-width: 960px) {
+  header {
+    position: relative;
+    width: 100%;
+    float: none;
+    
+    img {
+      max-width: 300px;
+    }
+  }
+  
+  section {
+    width: 100%;
+    float: none;
+  }
+}
