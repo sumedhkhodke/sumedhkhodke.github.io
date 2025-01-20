@@ -3,3 +3,4 @@ logo: https://raw.githubusercontent.com/sumedhkhodke/sumedhkhodke.github.io/main
 title: Sumedh Khodke
 baseurl: ""
 url: "https://sumedhkhodke.github.io"
+markdown: kramdown

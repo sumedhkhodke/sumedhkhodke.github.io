@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
 ## Contact Me
 
 Feel free to connect with me through any of the following platforms:
