@@ -13,13 +13,13 @@ layout: default
 
 <div class="main-content">
     <h2>👤 About Me</h2>
-    <p>I'm a Machine Learning Engineer with a Master's degree in Data Science from SUNY University at Buffalo and 3+ years of industry experience. My expertise lies in ML/AI, Data Science, MLOps, and software engineering for ML products. Always looking forward to connect with folks from the field of Data Science, Machine Learning and AI community.</p>
+    <p>I'm a Machine Learning Engineer with a Master's degree in Data Science from SUNY University at Buffalo and 3+ years of industry experience. My expertise lies in ML/AI, Data Science, MLOps, and software engineering for ML products.</p>
 
     <p>I have experience handling everything from brainstorming to deploying ML projects, including ideation, research, model development, and maintenance. I'm skilled in developing scalable applications, ML inference solutions, building RESTful APIs, and deploying cloud-based ML models (AWS, GCP) in production.</p>
 
     <p>My current research interests lie in Applied ML, Language Modeling, and training optimization techniques, especially in the domain of unstructured text. I'm passionate about exploring and contributing to the intersection of ML and software engineering.</p>
 
-    <p>Apart from work, I enjoy playing music, video games, and traveling.</p>
+    <p>Apart from work, I enjoy playing music, video games, and traveling. Always looking forward to connect with folks from the field of Data Science, Machine Learning and AI community.</p>
 
     <h2>🎓 Education</h2>
     <ul>
