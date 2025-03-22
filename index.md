@@ -48,7 +48,8 @@ layout: default
 
     <h2>💼 Work Experience</h2>
     <ul>
-        <li><strong>Machine Learning Engineer</strong>, Tellagence : June 2023 - Present</li>
+        <li><strong>ML/AI Software Engineer</strong>, Lean Innovation Labs : October 2024 - Present</li>
+        <li><strong>Machine Learning Engineer</strong>, Tellagence : June 2023 - October 2024</li>
         <li><strong>Software Engineer in Machine Learning</strong>, Rubiscape : January 2019 - June 2021</li>
         <li><strong>Machine Learning Intern</strong>, Walnut App : August 2017 - November 2018</li>
     </ul>
