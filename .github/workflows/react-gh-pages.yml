@@ -37,6 +37,12 @@ jobs:
         run: yarn install
       - name: Build React App
         run: yarn build
+      - name: Ensure favicon is in build root
+        run: |
+          echo "Checking if favicon.ico exists in build directory"
+          ls -la build/
+          echo "Copying favicon.ico to build root to ensure it's available"
+          cp -f public/favicon.ico build/favicon.ico
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
