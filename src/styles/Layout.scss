@@ -1,11 +1,8 @@
----
----
-
-@import "{{ site.theme }}";
-
 .wrapper {
   max-width: 960px;
   margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 header {
@@ -21,18 +18,20 @@ header {
     margin: 0 auto;
     border-radius: 10px;
   }
+
+  h1 {
+    a {
+      color: #222;
+      text-decoration: none;
+    }
+  }
 }
 
 section {
   width: calc(100% - 300px);
   float: right;
   padding-bottom: 50px;
-}
-
-.main-content {
-  width: 100%;
-  margin: 0;
-  padding: 0;
+  margin-left: 300px;
 }
 
 .navigation {
@@ -55,9 +54,10 @@ section {
 }
 
 @media print, screen and (max-width: 960px) {
-  div.wrapper {
+  .wrapper {
     width: auto;
     margin: 0;
+    flex-direction: column;
   }
 
   header {
@@ -71,13 +71,14 @@ section {
     }
   }
 
-  section, .main-content {
+  section {
     width: auto;
     float: none;
     border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
+    margin-left: 0;
   }
 }
 
@@ -85,4 +86,4 @@ section {
   header {
     padding: 0;
   }
-}
+} 

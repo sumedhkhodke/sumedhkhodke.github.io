@@ -1,0 +1,43 @@
+// App styles
+.main-content {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: #267CB9;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 20px;
+}
+
+p, ul, ol {
+  margin: 0 0 20px;
+}
+
+a {
+  color: #267CB9;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+strong {
+  font-weight: 700;
+}
+
+img {
+  max-width: 100%;
+}
+
+code {
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color: #333;
+  background-color: #f8f8f8;
+  padding: 2px 4px;
+  border-radius: 3px;
+} 
