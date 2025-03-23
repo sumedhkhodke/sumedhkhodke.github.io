@@ -1,6 +1,6 @@
 # Sumedh Khodke Portfolio
 
-This is a personal portfolio website built with React. It was converted from a Jekyll GitHub Pages site to a modern React application.
+This is a personal portfolio website built with React. Checkout the website at https://sumedhkhodke.com/
 
 ## Project Structure
 
@@ -24,26 +24,3 @@ This is a personal portfolio website built with React. It was converted from a J
 │   └── index.css         # Base styles
 └── package.json          # Project dependencies
 ```
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-### `npm run deploy`
-
-Deploys the app to GitHub Pages.
-
-## Technology Used
-
-- React
-- React Router
-- SCSS for styling 

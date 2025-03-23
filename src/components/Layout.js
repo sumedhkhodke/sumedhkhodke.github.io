@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
         
         <img 
           src="/img/portrait.jpg" 
-          alt="Portrait of Sumedh Khodke" 
+          alt="Sumedh Khodke - Machine Learning Engineer and AI Expert" 
           width="200" 
           height="300"
         />
