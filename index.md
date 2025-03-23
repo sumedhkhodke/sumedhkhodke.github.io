@@ -19,7 +19,7 @@ layout: default
 
     <p>My current research interests lie in Applied ML, Language Modeling, and training optimization techniques, especially in the domain of unstructured text. I'm passionate about exploring and contributing to the intersection of ML and software engineering.</p>
 
-    <p>Apart from work, I enjoy playing music, video games, and traveling. Always looking forward to connect with folks from the field of Data Science, Machine Learning and AI community.</p>
+    <p>Apart from work, I enjoy playing music, video games, and traveling. Always looking forward to connect with folks from the field of Data Science, Machine Learning and AI community .</p>
 
     <h2>🎓 Education</h2>
     <ul>
