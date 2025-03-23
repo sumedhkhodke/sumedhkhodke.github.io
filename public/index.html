@@ -19,7 +19,7 @@
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:creator" content="@sumedh_khodke" />
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.googletagmanager.com 'strict-dynamic' 'nonce-random123'; style-src 'self' 'nonce-random123'; img-src 'self' https://cdn.jsdelivr.net data:; connect-src 'self' https://www.google-analytics.com; font-src 'self'; frame-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests;" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.googletagmanager.com 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' https://cdn.jsdelivr.net data:; connect-src 'self' https://www.google-analytics.com; font-src 'self'; frame-src 'self'; object-src 'none';" />
     <meta http-equiv="X-Content-Type-Options" content="nosniff" />
     <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
     <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), interest-cohort=()" />
@@ -28,14 +28,14 @@
     <link rel="canonical" href="https://sumedhkhodke.com" />
     <title>Sumedh Khodke | Machine Learning Engineer</title>
     <!-- HTTPS Redirect -->
-    <script type="text/javascript" nonce="random123">
+    <script type="text/javascript">
       // Redirect to HTTPS if on HTTP
       if (window.location.protocol === 'http:' && window.location.hostname !== 'localhost') {
         window.location.href = window.location.href.replace('http:', 'https:');
       }
     </script>
     <!-- Dynamic Favicon -->
-    <script type="text/javascript" nonce="random123">
+    <script type="text/javascript">
       // Dynamically set favicon to avoid path issues
       const link = document.createElement('link');
       link.rel = 'icon';
@@ -43,7 +43,7 @@
       document.head.appendChild(link);
     </script>
     <!-- Structured Data for Person -->
-    <script type="application/ld+json" nonce="random123">
+    <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Person",
@@ -63,7 +63,7 @@
     }
     </script>
     <!-- Start Single Page Apps for GitHub Pages -->
-    <script type="text/javascript" nonce="random123">
+    <script type="text/javascript">
       // Single Page Apps for GitHub Pages
       // MIT License
       // https://github.com/rafgraph/spa-github-pages
@@ -80,8 +80,8 @@
     </script>
     <!-- End Single Page Apps for GitHub Pages -->
     <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6SV0XWPPE7" nonce="random123"></script>
-    <script nonce="random123">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6SV0XWPPE7"></script>
+    <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
